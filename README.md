@@ -1,7 +1,7 @@
 ### Hi there 👋
 ##  Iam Kigen Chesire
 Data Science | Analytics | Machine Learning | Deep Learning
-I am a Data Science enthusiast who's enjoying the never ending learning journey of this sector.
+I am a Data Science enthusiast who's enjoying the never ending learning journey of this sector.\n
 I have good basics and understanding in Data Analytics, Machine Learning and Deep Learning.
 
 Currently, I am working on some projects to add on my portfolio.
