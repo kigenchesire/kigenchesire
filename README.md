@@ -1,4 +1,13 @@
 ### Hi there 👋
+##  Iam Kigen Chesire
+Data Science | Analytics | Machine Learning | Deep Learning
+I am a Data Science enthusiast who's enjoying the never ending learning journey of this sector.
+I have good basics and understanding in Data Analytics, Machine Learning and Deep Learning.
+
+Currently, I am working on some projects to add on my portfolio.
+
+I am also proficient in tools like SQL, Java, Python and it's
+libraries (NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, TensorFlow, Keras, Pillow) etc.
 
 <!--
 **kigenchesire/kigenchesire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
