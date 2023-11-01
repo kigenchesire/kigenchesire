@@ -1,6 +1,7 @@
 ### Hi there 👋
-##  I'am Kigen Chesire, Software Engineer.
 
+##  I'am Kigen Chesire, Software Engineer.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kigenchesire)
 <!--
 **kigenchesire/kigenchesire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
